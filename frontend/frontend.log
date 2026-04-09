@@ -1,0 +1,77 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  5/4/2026 9:15:32 am ::1 GET /
+ HTTP  5/4/2026 9:15:32 am ::1 Returned 200 in 281 ms
+ HTTP  5/4/2026 9:15:32 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  5/4/2026 9:15:32 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  5/4/2026 9:15:32 am ::1 Returned 304 in 9 ms
+ HTTP  5/4/2026 9:15:32 am ::1 Returned 200 in 38 ms
+ HTTP  5/4/2026 9:16:37 am ::1 GET /login
+ HTTP  5/4/2026 9:16:37 am ::1 Returned 200 in 3 ms
+ HTTP  5/4/2026 9:16:37 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  5/4/2026 9:16:37 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  5/4/2026 9:16:37 am ::1 Returned 304 in 6 ms
+ HTTP  5/4/2026 9:16:37 am ::1 Returned 304 in 8 ms
+ HTTP  5/4/2026 9:17:16 am ::1 GET /ws
+ HTTP  5/4/2026 9:17:16 am ::1 Returned 200 in 3 ms
+ HTTP  5/4/2026 9:17:23 am ::1 GET /ws
+ HTTP  5/4/2026 9:17:23 am ::1 Returned 200 in 3 ms
+ HTTP  5/4/2026 9:17:27 am ::1 GET /
+ HTTP  5/4/2026 9:17:27 am ::1 Returned 200 in 8 ms
+ HTTP  5/4/2026 9:17:28 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  5/4/2026 9:17:28 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  5/4/2026 9:17:28 am ::1 Returned 200 in 6 ms
+ HTTP  5/4/2026 9:17:28 am ::1 Returned 200 in 6 ms
+ HTTP  5/4/2026 9:17:28 am ::1 GET /favicon.ico
+ HTTP  5/4/2026 9:17:28 am ::1 Returned 200 in 4 ms
+ HTTP  5/4/2026 9:17:36 am ::1 GET /favicon.ico
+ HTTP  5/4/2026 9:17:36 am ::1 Returned 304 in 4 ms
+ HTTP  5/4/2026 9:17:39 am ::1 GET /favicon.ico
+ HTTP  5/4/2026 9:17:39 am ::1 Returned 304 in 4 ms
+ HTTP  5/4/2026 9:17:41 am ::1 GET /favicon.ico
+ HTTP  5/4/2026 9:17:41 am ::1 Returned 304 in 3 ms
+ HTTP  5/4/2026 9:22:52 am ::1 GET /
+ HTTP  5/4/2026 9:22:52 am ::1 Returned 304 in 2 ms
+ HTTP  5/4/2026 9:22:52 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  5/4/2026 9:22:52 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  5/4/2026 9:22:52 am ::1 Returned 304 in 3 ms
+ HTTP  5/4/2026 9:22:52 am ::1 Returned 304 in 3 ms
+ HTTP  5/4/2026 9:23:08 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  5/4/2026 9:23:08 am ::1 Returned 304 in 3 ms
+ HTTP  5/4/2026 9:23:08 am ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  5/4/2026 9:23:08 am ::1 Returned 200 in 3 ms
+ HTTP  5/4/2026 9:23:08 am ::1 GET /static/js/main.4dd7e4d0.js.map
+ HTTP  5/4/2026 9:23:08 am ::1 GET /static/css/main.76f4572a.css.map
+ HTTP  5/4/2026 9:23:08 am ::1 Returned 304 in 6 ms
+ HTTP  5/4/2026 9:23:08 am ::1 Returned 200 in 28 ms
+ HTTP  6/4/2026 5:08:02 am ::1 GET /admin-dashboard
+ HTTP  6/4/2026 5:08:02 am ::1 Returned 200 in 151 ms
+ HTTP  6/4/2026 5:08:03 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  6/4/2026 5:08:03 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  6/4/2026 5:08:03 am ::1 Returned 304 in 4 ms
+ HTTP  6/4/2026 5:08:03 am ::1 Returned 304 in 6 ms
+ HTTP  6/4/2026 5:08:03 am ::1 GET /favicon.ico
+ HTTP  6/4/2026 5:08:03 am ::1 Returned 304 in 6 ms
+ HTTP  6/4/2026 5:18:40 am ::1 GET /
+ HTTP  6/4/2026 5:18:40 am ::1 Returned 304 in 3 ms
+ HTTP  6/4/2026 5:18:41 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  6/4/2026 5:18:41 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  6/4/2026 5:18:41 am ::1 Returned 304 in 5 ms
+ HTTP  6/4/2026 5:18:41 am ::1 Returned 304 in 5 ms
+ HTTP  6/4/2026 5:26:34 am ::1 GET /admin-dashboard
+ HTTP  6/4/2026 5:26:34 am ::1 Returned 304 in 70 ms
+ HTTP  6/4/2026 5:26:35 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  6/4/2026 5:26:35 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  6/4/2026 5:26:35 am ::1 Returned 304 in 839 ms
+ HTTP  6/4/2026 5:26:35 am ::1 Returned 304 in 734 ms
+ HTTP  6/4/2026 5:27:13 am ::1 GET /
+ HTTP  6/4/2026 5:27:13 am ::1 Returned 304 in 100 ms
+ HTTP  6/4/2026 5:27:14 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  6/4/2026 5:27:14 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  6/4/2026 5:27:14 am ::1 Returned 304 in 252 ms
+ HTTP  6/4/2026 5:27:14 am ::1 Returned 304 in 268 ms
+ HTTP  6/4/2026 5:32:40 am ::1 GET /
+ HTTP  6/4/2026 5:32:40 am ::1 Returned 304 in 211 ms
+ HTTP  6/4/2026 5:32:41 am ::1 GET /static/js/main.4dd7e4d0.js
+ HTTP  6/4/2026 5:32:41 am ::1 GET /static/css/main.76f4572a.css
+ HTTP  6/4/2026 5:32:41 am ::1 Returned 304 in 715 ms
+ HTTP  6/4/2026 5:32:41 am ::1 Returned 304 in 716 ms
